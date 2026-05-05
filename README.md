@@ -1,4 +1,4 @@
-# DataVault---Secure-File-Storage-and-Management
+
 # 🔐 DataVault – Secure File Storage and Management
 
 > A secure, AI-powered cloud file storage and management platform built with Python & Streamlit — featuring dual-layer AES-256 encryption, intelligent document analysis, RAG-based chatbot, and controlled file sharing.
